@@ -1,0 +1,5 @@
+room1		23
+room2		24
+test bulb	18
+solar panel	17,27,22
+door lock	26,19,13
